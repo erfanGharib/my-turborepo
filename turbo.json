@@ -19,7 +19,9 @@
     },
     "mobile#start": {
       "cache": false
-
+    },
+    "native#start": {
+      "cache": false
     }
   }
 }

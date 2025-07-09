@@ -2,6 +2,7 @@
   "name": "my-turborepo",
   "private": true,
   "scripts": {
+    "all-apps": "turbo run mobile#start native#start",
     "start": "turbo run start",
     "build": "turbo run build",
     "dev": "turbo run dev",

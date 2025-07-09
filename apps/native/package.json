@@ -1,5 +1,5 @@
 {
-  "name": "mobile",
+  "name": "native",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -41,7 +41,6 @@
     "react-native-webview": "13.13.5"
   },
   "devDependencies": {
-    "@repo/tailwind-config": "*",
     "@babel/core": "^7.25.2",
     "@types/react": "~19.0.10",
     "eslint": "^9.25.0",
