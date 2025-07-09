@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@repo/mobile-ui": "*",
     "@expo/metro-runtime": "~3.2.3",
     "@expo/vector-icons": "^14.0.3",
     "@types/react": "~18.2.79",
