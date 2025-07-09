@@ -1,4 +1,4 @@
-import { Pressable, Text, View } from "react-native";
+import { Pressable, Text } from "react-native";
 
 export const MobileButton = ({ children, className, appName }: any) => {
   return (
