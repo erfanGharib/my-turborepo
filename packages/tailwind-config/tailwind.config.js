@@ -9,7 +9,13 @@ module.exports = {
   ],
   presets: [require("nativewind/preset")],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        green: {
+          "gharib": '#54FF99',
+        },
+      }
+    }
   },
   plugins: [],
 }
