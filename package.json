@@ -2,7 +2,9 @@
   "name": "my-turborepo",
   "private": true,
   "scripts": {
-    "all-apps": "turbo run mobile#start",
+    "mobile": "turbo run mobile#start",
+    "native": "turbo run native#start",
+    "storybook": "turbo run expo-example#storybook",
     "start": "turbo run start",
     "build": "turbo run build",
     "dev": "turbo run dev",

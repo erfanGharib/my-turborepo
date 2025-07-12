@@ -22,6 +22,9 @@
     },
     "native#start": {
       "cache": false
+    },
+    "expo-example#storybook": {
+      "cache": false
     }
   }
 }

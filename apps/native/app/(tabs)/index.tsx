@@ -18,7 +18,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <Text className='text-green-gharib bg-blue-900'>Native</Text>
+        <Text className='text-green-gharib bg-blue-900'>Naaaative</Text>
         <MobileButton></MobileButton>
         <ThemedText type="title">Welcome!</ThemedText>
         <HelloWave />
